@@ -1,0 +1,22 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "profile genrator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmifs/team-profile-generator.git"
+  },
+  "author": "michael mifsud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmifs/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/mmifs/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
