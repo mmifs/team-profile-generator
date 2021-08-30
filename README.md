@@ -24,6 +24,11 @@ This application requires node.js, npm inquirer and npm fs. Jest is also support
 
 To use the application, simply type node index.js while in the correct directory within gitbash shell. The application will prompt for the required information and the webpage will be created in the dist folder. A tutorial video can be found in the link below.
 
+
+
+https://user-images.githubusercontent.com/85654339/131279328-3138091a-a26c-46ec-a5f8-baf9c0e24a56.mp4
+
+
 https://drive.google.com/file/d/10IZNKhG_bT4mRe2nIJfInW5WeBJA3f40/view
 
 
