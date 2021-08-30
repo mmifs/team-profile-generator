@@ -158,7 +158,7 @@ function addEmployee() {
                 } else if (role === "Engineer") {
                     info = "GitHub name";
                 } else {
-                    info = "office phone number";
+                    info = "office number";
                 }
                 inquirer.prompt([{
                     message: `What is this ${role}'s ${info}?`,
