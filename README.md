@@ -22,7 +22,7 @@ This application requires node.js, npm inquirer and npm fs. Jest is also support
 
 ## Usage
 
-To use the application, simply type node index.js while in the correct directory within gitbash shell. The application will prompt for the required information and the webpage will be created in the dist folder. A tutorial video can be found in the link below.
+To use the application, simply type 'node index.js' while in the correct directory within gitbash shell. The application will prompt for the required information and the webpage will be created in the dist folder. A tutorial video can be found in the link below.
 
 
 
@@ -44,7 +44,7 @@ I am not currently accepting contributors to this repository, for personal usage
 
 ## Tests
 
-The test folder includes a number of tests to ensure the classes can be created and properties defined correctly. To run the tests, simply type run npm test into gitbash shell terminal.
+The test folder includes a number of tests to ensure the classes can be created and properties defined correctly. To run the tests, simply type 'run npm test' into gitbash shell terminal.
 
 
 ## Questions
