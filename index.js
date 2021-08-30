@@ -80,7 +80,7 @@ function addCard(emp) {
 
                       Email: <a href='mailto:${email}'>${email}<a> <br> <br>
 
-                      Github: ${gitHub}
+                      Github: <a href="https://github.com/${gitHub}" target="_blank">${gitHub}</a>
                     </p>
                 </div>
               </div>
