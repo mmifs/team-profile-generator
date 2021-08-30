@@ -33,7 +33,7 @@ function firstHtml() {
                 <span class="text-white">My Team</span>
             </nav>
             <div class="row" style="padding-top: 50px;">`
-    fs.writeFile('./output/team.html', html, function(err) {
+    fs.writeFile('./dist/team.html', html, function(err) {
         if (err) {
             console.log(err);
         }
@@ -105,7 +105,7 @@ function addCard(emp) {
               </div>
         </div>`
         }
-        fs.appendFile('./output/team.html', data, function (err) {
+        fs.appendFile('./dist/team.html', data, function (err) {
             if (err) {
                 return reject(err);
             };
@@ -120,7 +120,7 @@ function lastHtml() {
             </div>
         </body>
     </html>`;
-    fs.appendFile("./output/team.html", html, function (err) {
+    fs.appendFile("./dist/team.html", html, function (err) {
         if (err) {
             console.log(err);
         };

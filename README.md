@@ -22,7 +22,7 @@ This application requires node.js, npm inquirer and npm fs. Jest is also support
 
 ## Usage
 
-To use the application, simply type node index.js while in the correct directory within gitbash shell. The application will prompt for the required information and the webpage will be created in the output folder.
+To use the application, simply type node index.js while in the correct directory within gitbash shell. The application will prompt for the required information and the webpage will be created in the dist folder.
 
 
 ## License
