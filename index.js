@@ -67,7 +67,7 @@ function addCard(emp) {
               </div>
         </div>`
         } else if (role === 'Engineer') {
-            const gitHub = emp.getGit();
+            const gitHub = emp.getGithub();
             data = `<div class="col-sm-6">
             <div class="card">
                 <div class="card-body">
